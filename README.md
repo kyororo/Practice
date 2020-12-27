@@ -1,5 +1,4 @@
-# Practice
-Practice java
+Practice 
 
 about git 
 
